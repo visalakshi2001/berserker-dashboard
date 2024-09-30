@@ -74,4 +74,4 @@ def progmgmtfunc():
     with cols[1]:
         cont = st.container(border=True, height=600)
         cont.markdown("<h5>Task Overview</h5>", True)
-        cont.dataframe(roles[["StudentName", "Description"]], use_container_width=True)
+        cont.dataframe(roles[["StudentName", "Description"]],hide_index=True, use_container_width=True)
