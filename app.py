@@ -8,7 +8,7 @@ from issues import sysissues
 from home import homefunc, progmgmtfunc
 
 # Set page configuration, page title is the titlebar content, icon also appears on title bar
-st.set_page_config(page_title="Dashboard", page_icon="🍩", layout="wide")
+st.set_page_config(page_title="Berserker Dashboard", page_icon="☄️", layout="wide")
 
 # main entrypoint of the application, gets called when the app runs
 def main():
