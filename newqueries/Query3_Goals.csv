@@ -1,0 +1,9 @@
+,GoalID,GoalName,SubGoalID,GoalText,OperationName
+0,1.1,Locate IRQ Forces,,,Operation Desert Storm
+1,1.2,Suppress IRQ Forces,,,Operation Desert Storm
+2,10,Protect American Citizens,3.1,Protect  the lives of American citizens abroad,Operation Desert Storm
+3,11,Protect Persian Gulf,,Promote the security and stability of the Persian gulf,Operation Desert Storm
+4,3.1,Evacuate American Citizens,,,Operation Desert Storm
+5,8,Withdraw IRQ from KWT,1.1,Iraq withdraw unconditionally from Kuwait,Operation Desert Storm
+6,8,Withdraw IRQ from KWT,1.2,Iraq withdraw unconditionally from Kuwait,Operation Desert Storm
+7,9,Restore KWT,,Restore Kuwait's legitimate government,Operation Desert Storm

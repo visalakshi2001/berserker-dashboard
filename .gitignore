@@ -1,0 +1,10 @@
+berserker/
+__pycache__/
+newdash/*
+newdash/
+.streamlit/*
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/
+*.ipynb_checkpoints/*
+scripts.py

@@ -1,0 +1,8 @@
+,ReqID,ReqName,ReqText,SatisfiedBy,VerifiedName
+0,SIE250_1-SYS-1,Terrain Requirement,The system shall be capable of operating in both indoor and outdoor terrains.,,
+1,SIE250_1-SYS-2,Remote Control Requirement,The system shall have remote control capacity between 3-20 ft.,,Maneuverability Simulation
+2,SIE250_1-SYS-3,Autonomous Requirement,The system shall become autonomous if there is no signal through the remote control after 30 seconds.,Group1_Rover_Auto,Comms Simulation
+3,SIE250_1-SYS-4,Cargo Requirement,The system shall be able to carry cargo up to 40 lbs.,Group1_Rover_Cargo,Cargo Test
+4,SIE250_1-SYS-5,Spinning Requirement,The system shall observe 360 degrees in 30 second intervals when the system is turned on.,,
+5,SIE250_1-SYS-6,Trash Requirement,The system shall grab food container-type trash and dispose off it.,,
+6,SIE250_1-SYS-7,Mass Requirement,The system mass shall be less than 5kg,Group1_Rover_Mass,Mass Test

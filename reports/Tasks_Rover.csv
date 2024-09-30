@@ -1,0 +1,12 @@
+,TaskID,Description,Role,Responsibilities,StudentName,Outputs
+0,SIE2501-10,Import SYSMLV2 Files into Violet,Systems Architect,SE Management and Planning,Nora Thompson,
+1,SIE2501-16,Create a Verification Plan for the System,Program Manager,Needs and Requirements,Tariq Najib,Rover_Verification_Strategy
+2,SIE2501-17,Create a detailed Hardware design (CAD model) for System,Software Engineer,Architecture and Verification Plan,Amelia Sterling,SIE250_CADModel
+3,SIE2501-22,Construct Rover and all Hardware Components,Test Engineer,"Detailed HW Design, Integration Plan",Mei Lin Zhang,
+4,SIE2501-23,Integrate all hardware and software to complete system architecture,Test Engineer,"Detailed HW Design, Integration Plan",Mei Lin Zhang,
+5,SIE2501-24,Run Verification Tests according to Verification Plan,Test Engineer,"Detailed HW Design, Integration Plan",Mei Lin Zhang,
+6,SIE2501-27,Complete mass analysis verification activity,Test Engineer,Detailed SW Design,Javier Ortiz,
+7,SIE2501-3,Define System Requirements,Test Engineer,Detailed SW Design,Javier Ortiz,"Terrain Requirement, Trash Requirement, Autonomous Requirement, Remote Control Requirement, Cargo Requirement, Spinning Requirement, Mass Requirement"
+8,SIE2501-4,Refine Stakeholder Needs,Test Engineer,Detailed SW Design,Javier Ortiz,
+9,SIE2501-7,Create a System Architecture,CBTDEV,"Tests, Integration and Deployment",Fiona Nguyen,"ProvideRoverPropulsion, Group1_Rover"
+10,SIE2501-9,Create and Assign Jira Tasks,Test Engineer,"Tests, Integration and Deployment",Sunita Rao,

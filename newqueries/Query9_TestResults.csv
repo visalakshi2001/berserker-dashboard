@@ -1,0 +1,5 @@
+,TestResultSet,TestResultID,TestEvent,MeasurementOf,Value,Unit,MoPValue,MoPUnit
+0,TE-1_ResultSet,TE-1_Output1,TE-1,Maneuverability,23.7,,22.5,
+1,TE-1_ResultSet,TE-1_Output2,TE-1,Maneuverability,22.9,,22.5,
+2,TE-1_ResultSet,TE-1_Output3,TE-1,MQ-99_Berserker_Max_Airspeed,251.4,knot,250,knot
+3,TE-1_ResultSet,TE-1_Output4,TE-1,MQ-99_Berserker_Max_Airspeed,248.5,knot,250,knot

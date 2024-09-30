@@ -1,0 +1,6 @@
+,ReqID,ReqName,ReqText,Source,Prescribes,SatisfiedBy
+0,MR 867,MR 867 Dropped Frames,The Berserker EO/IR Sensor shall not drop more than 5 frames per hour during video transmission.,Jama,SEAD_Mission,EO_IR_Sensor
+1,MR 868,MR 868 EO/IR Accuracy,The Berserker EO/IR sensor shall achieve a classification accuracy of at least 90% when identifying targets under standard operating conditions.,Jama,SEAD_Mission,EO_IR_Sensor
+2,MR 870,MR 870 Time to Launch,"The Berserker enterprise system shall be fully configured and ready for launch within 180 minutes of initiation, including all necessary pre-flight checks and system preparations.",Jama,SEAD_Mission,EO_IR_Sensor
+3,MR 878,MR 878 EO/IR False Classification Rate,The Berserker EO/IR sensor shall have a false classification rate of no more than 20% under standard operating conditions.,Jama,SEAD_Mission,EO_IR_Sensor
+4,MR 879,MR 879 Effective IR Resolution Distance,"The Berserker EO/IR sensor shall provide an effective resolution of at least 700 meters, ensuring clear identification and targeting capability at that distance.",Jama,SEAD_Mission,EO_IR_Sensor
