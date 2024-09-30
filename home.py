@@ -39,7 +39,7 @@ def homefunc():
         # target_tasks = tasks[tasks["StudentName"] == "Javier Ortiz"]
         co.markdown(f"**Operation Name:** {'Operation Desert Storm'}")
                     
-        co.dataframe(goals.iloc[:, :-1], hide_index=True, use_container_width=True)
+        co.dataframe(goals.iloc[:, :-1], hide_index=True)
 
 
     # call the third container and design the view under
